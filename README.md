@@ -7,7 +7,7 @@ Demo : https://stratum.ewzyw907x.workers.dev/
 
 ## Setup
 
-1. Cloudflare dashboard → Workers & Pages → Create Worker → Deploy.
+1. Cloudflare dashboard → Workers & Pages → Create application → Start with Hello World! → Deploy.
 2. Edit code: delete the template, paste all of `worker.js`, Deploy again.
 
 ## Use
