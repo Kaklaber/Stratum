@@ -1,5 +1,9 @@
 # Stratum
 
+<p align="center">
+  <img src="screenshot.png" alt="Stratum screenshot" width="600">
+</p>
+
 A Cloudflare Worker that converts proxy subscriptions between Clash / Mihomo
 YAML, sing-box JSON, and raw share links. No database, no setup beyond one file.
 
